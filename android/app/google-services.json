@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488785589558",
+    "project_id": "trucklinkk",
+    "storage_bucket": "trucklinkk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488785589558:android:7bc17b8f2b0d942c532f97",
+        "android_client_info": {
+          "package_name": "com.example.collegeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC697BGSs422Fx8ir--1Unzyu9DMIZKL6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
